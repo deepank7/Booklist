@@ -1,3 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +12,76 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: rgba(0, 0, 0, 0.500) url("./assets/books-reading.jpg") no-repeat;
+  background-size: cover;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.App{
+  margin: 100px auto;
+  width: 90%;
+  max-width: 700px;
+  border-radius: 1rem ;
+  color: whitesmoke;
+  background-color: #d0cecc;
+  background: rgba(50, 51, 59, 0.5);
+}
+.navbar{
+  padding: 10px 20px;
+  text-align: center;
+}
+.navbar h1{
+  margin: 10px 0;
+}
+.book-list{
+  margin: 20px;
+}
+.book-list ul{
+  padding: 0;
+  list-style-type: none;
+}
+.book-list li{
+  border-radius: 4px;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px 0;
+}
+.book-list li:hover{
+  opacity: 0.7;
+  text-decoration: line-through;
+}
+.book-list .title{
+  font-weight: bold;
+  color: #fff;
+  font-size: 1.2em;
+}
+.book-list .author{
+  font-size: 0.9em;
+  color: #ddd;
+}
+.empty{
+  margin: 20px;
+  text-align: center;
+}
+form{
+  padding: 20px;
+}
+input[type='text']{
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  margin: 6px 0;
+  color: black;
+  border: 0;
+}
+input[type='submit']{
+  font-size: medium;
+  margin: 10px auto;
+  border: 0;
+  display: block;
+  background-color: #484848;
+  color: whitesmoke;
+  padding: 12px 24px;
+  text-decoration: solid;
+  border-radius: 1rem;
+  cursor: pointer;
 }
