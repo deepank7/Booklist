@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/deepank7/Booklist/static/css/main.b8bee12d.chunk.css",
-    "main.js": "/deepank7/Booklist/static/js/main.e193f430.chunk.js",
-    "main.js.map": "/deepank7/Booklist/static/js/main.e193f430.chunk.js.map",
-    "runtime-main.js": "/deepank7/Booklist/static/js/runtime-main.48342e36.js",
-    "runtime-main.js.map": "/deepank7/Booklist/static/js/runtime-main.48342e36.js.map",
-    "static/js/2.e204fb79.chunk.js": "/deepank7/Booklist/static/js/2.e204fb79.chunk.js",
-    "static/js/2.e204fb79.chunk.js.map": "/deepank7/Booklist/static/js/2.e204fb79.chunk.js.map",
-    "static/js/3.5089d997.chunk.js": "/deepank7/Booklist/static/js/3.5089d997.chunk.js",
-    "static/js/3.5089d997.chunk.js.map": "/deepank7/Booklist/static/js/3.5089d997.chunk.js.map",
-    "index.html": "/deepank7/Booklist/index.html",
-    "static/css/main.b8bee12d.chunk.css.map": "/deepank7/Booklist/static/css/main.b8bee12d.chunk.css.map",
-    "static/js/2.e204fb79.chunk.js.LICENSE.txt": "/deepank7/Booklist/static/js/2.e204fb79.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/deepank7/Booklist/static/media/books-reading.44c5021a.jpg"
+    "main.css": "/Booklist/static/css/main.8fdd41ba.chunk.css",
+    "main.js": "/Booklist/static/js/main.e193f430.chunk.js",
+    "main.js.map": "/Booklist/static/js/main.e193f430.chunk.js.map",
+    "runtime-main.js": "/Booklist/static/js/runtime-main.42ed0e92.js",
+    "runtime-main.js.map": "/Booklist/static/js/runtime-main.42ed0e92.js.map",
+    "static/js/2.e204fb79.chunk.js": "/Booklist/static/js/2.e204fb79.chunk.js",
+    "static/js/2.e204fb79.chunk.js.map": "/Booklist/static/js/2.e204fb79.chunk.js.map",
+    "static/js/3.5089d997.chunk.js": "/Booklist/static/js/3.5089d997.chunk.js",
+    "static/js/3.5089d997.chunk.js.map": "/Booklist/static/js/3.5089d997.chunk.js.map",
+    "index.html": "/Booklist/index.html",
+    "static/css/main.8fdd41ba.chunk.css.map": "/Booklist/static/css/main.8fdd41ba.chunk.css.map",
+    "static/js/2.e204fb79.chunk.js.LICENSE.txt": "/Booklist/static/js/2.e204fb79.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Booklist/static/media/books-reading.44c5021a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.48342e36.js",
+    "static/js/runtime-main.42ed0e92.js",
     "static/js/2.e204fb79.chunk.js",
-    "static/css/main.b8bee12d.chunk.css",
+    "static/css/main.8fdd41ba.chunk.css",
     "static/js/main.e193f430.chunk.js"
   ]
 }
